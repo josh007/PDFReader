@@ -1,0 +1,17 @@
+c:\users\administrator\documents\visual studio 2012\Projects\PdfReader\PdfReader\bin\Debug\PdfReader.exe.config
+C:\Users\Administrator\documents\visual studio 2012\Projects\PdfReader\PdfReader\bin\Debug\PdfReader.exe
+C:\Users\Administrator\documents\visual studio 2012\Projects\PdfReader\PdfReader\bin\Debug\PdfReader.pdb
+C:\Users\Administrator\documents\visual studio 2012\Projects\PdfReader\PdfReader\obj\Debug\PdfReader.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2012\Projects\PdfReader\PdfReader\obj\Debug\PdfReader.Properties.Resources.resources
+C:\Users\Administrator\documents\visual studio 2012\Projects\PdfReader\PdfReader\obj\Debug\PdfReader.csproj.GenerateResource.Cache
+C:\Users\Administrator\documents\visual studio 2012\Projects\PdfReader\PdfReader\obj\Debug\PdfReader.exe
+C:\Users\Administrator\documents\visual studio 2012\Projects\PdfReader\PdfReader\obj\Debug\PdfReader.pdb
+C:\Users\Administrator\documents\visual studio 2012\Projects\PdfReader\PdfReader\bin\Debug\itextsharp.dll
+C:\Users\Administrator\documents\visual studio 2012\Projects\PdfReader\PdfReader\obj\Debug\PdfReader1.frmPdf.resources
+C:\Users\Administrator\documents\visual studio 2012\Projects\PdfReader\PdfReader\bin\Debug\commons-logging.dll
+C:\Users\Administrator\documents\visual studio 2012\Projects\PdfReader\PdfReader\bin\Debug\fontbox-1.8.4.dll
+C:\Users\Administrator\documents\visual studio 2012\Projects\PdfReader\PdfReader\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\Administrator\documents\visual studio 2012\Projects\PdfReader\PdfReader\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\Administrator\documents\visual studio 2012\Projects\PdfReader\PdfReader\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\Administrator\documents\visual studio 2012\Projects\PdfReader\PdfReader\bin\Debug\IKVM.Runtime.dll
+C:\Users\Administrator\documents\visual studio 2012\Projects\PdfReader\PdfReader\bin\Debug\pdfbox-1.8.4.dll
